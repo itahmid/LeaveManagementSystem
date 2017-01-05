@@ -21,9 +21,6 @@ Designed to provide simple leave and overtime request workflows for small organi
 
 ## __Installation__
 
-[See the installation instructions](docs/install/README.md) for advanced configuration. 
-
-## In a nutshell:
 * If you use Apache, **mod_rewrite must be activated and the config must allow overwriting settings with .htaccess file**.
 * Download or clone LeaveManagementSystem.
 * Upload the content of this folder on your server (in <code>/var/www/...</code>).
@@ -35,12 +32,6 @@ Designed to provide simple leave and overtime request workflows for small organi
 * It is recommended to change the private and public RSA keys (in <code>assets/keys</code>).
 * Check your installation with the <code>requirements.php</code> page at the root of your installation (e.g. http://localhost/lms/requirements.php).
 * The default user is *bbalet* and password is *bbalet*.
-
-## Contribute
-
-* [Read the TODO list](TODO.md) if you want to know what are the priorities.
-
-## Credits
 
 ### Third party libraries and components
 
